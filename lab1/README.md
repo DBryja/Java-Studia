@@ -1,10 +1,11 @@
-#Zad 1
+# Zad 1
 ![Lab 1 Zad 1](../lab1/zad1-wersja.png)
 
+# Zad 2
 ```
 package lab1.src;
 
-#Zad 2
+
 public class Shape {
    public void print() {
       System.out.println(this.getClass().getSimpleName());
@@ -24,10 +25,9 @@ class Main {
    }
 }
 ```
-
 ![Lab 1 Zad 2](../lab1/zad2-compile_run.png)
 
-#Zad 3
+# Zad 3
 
 ```
 package lab1.zad3;
